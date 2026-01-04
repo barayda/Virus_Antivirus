@@ -1,0 +1,8 @@
+C:\Users\esman\Desktop\KurtariciAntivirus\KurtariciAntivirus\bin\Debug\KurtariciAntivirus.exe.config
+C:\Users\esman\Desktop\KurtariciAntivirus\KurtariciAntivirus\bin\Debug\KurtariciAntivirus.exe
+C:\Users\esman\Desktop\KurtariciAntivirus\KurtariciAntivirus\bin\Debug\KurtariciAntivirus.pdb
+C:\Users\esman\Desktop\KurtariciAntivirus\KurtariciAntivirus\obj\Debug\KurtariciAntivirus.csproj.AssemblyReference.cache
+C:\Users\esman\Desktop\KurtariciAntivirus\KurtariciAntivirus\obj\Debug\KurtariciAntivirus.csproj.CoreCompileInputs.cache
+C:\Users\esman\Desktop\KurtariciAntivirus\KurtariciAntivirus\obj\Debug\KurtariciAntivirus.exe
+C:\Users\esman\Desktop\KurtariciAntivirus\KurtariciAntivirus\obj\Debug\KurtariciAntivirus.pdb
+C:\Users\esman\Desktop\KurtariciAntivirus\KurtariciAntivirus\obj\Debug\KurtariciAntivirus.exe.config

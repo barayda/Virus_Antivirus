@@ -1,0 +1,8 @@
+C:\Users\esman\Desktop\PembeEkranVirusu\PembeEkranVirusu\bin\Debug\PembeEkranVirusu.exe.config
+C:\Users\esman\Desktop\PembeEkranVirusu\PembeEkranVirusu\bin\Debug\PembeEkranVirusu.exe
+C:\Users\esman\Desktop\PembeEkranVirusu\PembeEkranVirusu\bin\Debug\PembeEkranVirusu.pdb
+C:\Users\esman\Desktop\PembeEkranVirusu\PembeEkranVirusu\obj\Debug\PembeEkranVirusu.csproj.AssemblyReference.cache
+C:\Users\esman\Desktop\PembeEkranVirusu\PembeEkranVirusu\obj\Debug\PembeEkranVirusu.csproj.CoreCompileInputs.cache
+C:\Users\esman\Desktop\PembeEkranVirusu\PembeEkranVirusu\obj\Debug\PembeEkranVirusu.exe
+C:\Users\esman\Desktop\PembeEkranVirusu\PembeEkranVirusu\obj\Debug\PembeEkranVirusu.pdb
+C:\Users\esman\Desktop\PembeEkranVirusu\PembeEkranVirusu\obj\Debug\PembeEkranVirusu.exe.config
